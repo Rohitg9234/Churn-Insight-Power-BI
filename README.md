@@ -1,25 +1,28 @@
 # Bank Churn Analysis by Power BI
 
-This repository contains a Power BI dashboard that analyzes the churn rate in the banking sector. The goal of this project is to provide insights into customer retention and predict potential churn.
+Welcome to the **Bank Churn Analysis** repository! This project uses **Power BI** to analyze and visualize churn rates in the banking sector. The insights generated aim to help in better customer retention and strategic decision-making.
 
-## Overview
+---
 
-This project leverages Power BI to process and visualize churn data, providing insights that can help improve customer retention strategies.
+## 🚀 **Project Features**
+- 📊 **Interactive Power BI Dashboards**
+- 🔍 **Churn Pattern Visualization**
+- 🧠 **Predictive Analytics for Customer Retention**
 
-## Features
+---
 
-- Interactive Power BI dashboards
-- Visual analysis of churn patterns
-- Predictive models based on historical data
+## 📑 **Documentation**
+For a **detailed breakdown** of the analysis and methodology used in this project, please refer to the **PDF documentation** below:
 
-## Documentation
+### 📥 [Download Bank Churn Analysis PDF](docs/Bank_Churn_Analysis.pdf)
 
-For more detailed information, please refer to the PDF documentation below:
+You can also view it directly in your browser:
 
-[Download Bank Churn Analysis PDF](docs/Bank_Churn_Analysis.pdf)
+### 👁️‍🗨️ [View the PDF Documentation](docs/Bank_Churn_Analysis.pdf)
 
-## How to Run
+---
 
-1. Clone the repository:
+## 🛠️ **How to Run**
+1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/Churn-Insight-Power-BI.git
